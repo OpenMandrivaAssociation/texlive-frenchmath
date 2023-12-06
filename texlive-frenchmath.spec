@@ -1,6 +1,6 @@
 Name:		texlive-frenchmath
-Version:	65363
-Release:	2
+Version:	66470
+Release:	1
 Summary:	Typesetting mathematics according to French rules
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/frenchmath
