@@ -1,5 +1,5 @@
 Name:		texlive-frenchmath
-Version:	69211
+Version:	69568
 Release:	1
 Summary:	Typesetting mathematics according to French rules
 Group:		Publishing
