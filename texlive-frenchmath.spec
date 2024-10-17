@@ -3,7 +3,7 @@ Version:	71205
 Release:	1
 Summary:	Typesetting mathematics according to French rules
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/frenchmath
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/frenchmath
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/frenchmath.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/frenchmath.doc.r%{version}.tar.xz
